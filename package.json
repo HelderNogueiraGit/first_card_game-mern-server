@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/HelderNogueiraGit/first_card_game-mern-server#readme",
   "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
     "express": "^5.2.1"
   },
   "devDependencies": {
